@@ -4,9 +4,6 @@ draft = false
 construction = false
 title = 'Recipes'
 subtitle = ''
-author = ''
-version = ''
-updated = ''
 +++
 
 

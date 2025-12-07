@@ -4,9 +4,6 @@ draft = true
 construction = false
 title = 'SDS-Page & Western Blotting'
 subtitle = ''
-author = ''
-version = ''
-updated = ''
 +++
 
 

@@ -4,7 +4,4 @@ draft = false
 construction = false
 title = 'Homepage'
 subtitle = ''
-author = ''
-version = ''
-updated = ''
 +++

@@ -4,9 +4,6 @@ draft = false
 construction = false
 title = 'Bacteria'
 subtitle = ''
-author = ''
-version = ''
-updated = ''
 +++
 
 

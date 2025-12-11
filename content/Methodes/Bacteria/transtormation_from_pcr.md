@@ -95,6 +95,7 @@ updated = '10.12.2025'
 ### Transformation Preparations:
 1. <input type="checkbox"> Thaw a one-shot of competent bacteria per transformation on ice for approximately 5 minutes.
 {{< timer time="0:05:00" >}}
+
 2. <input type="checkbox"> Pre-warm 1100 µL of LB medium per transformation to 37 °C.
 ### Transformation:
 1. <input type="checkbox"> Add 10 µL of the reaction a one shot of 50–100 µL of competent cells.
@@ -102,14 +103,18 @@ updated = '10.12.2025'
 3. <input type="checkbox"> Mix the bacteria by flicking or gentle stirring.
 4. <input type="checkbox"> Incubate transformation mix on ice for 30 minutes.
 {{< timer time="0:30:00" >}}
+
 5. <input type="checkbox"> Pre-heat a heating block or water bath to 42 °C.
 5. <input type="checkbox"> Incubate transformation mix in a heating block or water bath @ 42 °C for 45 to 60 seconds.
 {{< timer time="0:01:00" >}}
+
 6. <input type="checkbox"> Incubate transformation mix on ice for 5 minutes.
 {{< timer time="0:05:00" >}}
+
 7. <input type="checkbox"> Add 900 µL LB medium to the transformation mix.
 8. <input type="checkbox"> Incubate transformation mix on a heating block @ 37 °C and @ 250 rpm for 1 h.
 {{< timer time="1:00:00" >}}
+
 ### Plate Preparation:
 1. <input type="checkbox"> Take two LB-agar Plates containing the appropriate antibiotic out of the fridge and let them warm up to RT.
 2. <input type="checkbox"> For blue/white selection plate 20 µL of X-Gal on the Plates and let dry before plating any bacteria.
@@ -127,7 +132,7 @@ updated = '10.12.2025'
 ℹ️ Plates can be stored @ 4°C for up to four weeks.
 {{< /infobox >}}
 
-### Proceed with Suitable Follow-up Protocol.
+### Procede with Suitable Protocol:
 - 	[Bacterial Expression Culture](/content/methodes/bacteria/expression_culture.md)
 - 	[Bacterial Plasmid Preparation Culture](/content/methodes/bacteria/plasmid_prep_culture.md)
 {{< /tab >}}

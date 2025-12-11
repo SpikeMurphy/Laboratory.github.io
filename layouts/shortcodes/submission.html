@@ -1,0 +1,63 @@
+
+<form class="contact-form" action="https://formsubmit.co/my@email.here" method="POST">
+  
+  <!-- FormSubmit options -->
+  <input type="hidden" name="_captcha" value="false">
+  <input type="hidden" name="_template" value="table">
+  <input type="hidden" name="_next" value="https://spikemurphy.github.io/Laboratory/contact/thanks_for_submission">
+
+  <label for="topic">Current position</label>
+  <select id="topic" name="topic" required>
+    <option value="" disabled selected>Select your current position</option>
+    <option value="other">Technical Assistant</option>
+    <option value="general_request">B. Sc. Student</option>
+    <option value="general_request">Bachelor of Science</option>
+    <option value="general_request">M. Sc. Student</option>
+    <option value="general_request">Master of Science</option>
+    <option value="collaboration">Doctoral Candidate</option>
+    <option value="data_request">Postdoctoral Researcher</option>
+    <option value="data_request">Working Group Leader</option>
+    <option value="data_request">Professor</option>
+    <option value="data_request">Head of Institute</option>
+    <option value="data_request">Head of Center</option>
+  </select>
+
+  <label for="name">Name</label>
+  <input type="text" id="name" name="name" required>
+
+  <label for="surname">Surname</label>
+  <input type="text" id="surname" name="surname" required>
+
+  <label for="institution">Institution</label>
+  <input type="text" id="institution" name="institution" required>
+
+  <label for="country">Country</label>
+  <input type="text" id="country" name="country" >
+
+  <label for="email">Email</label>
+  <input type="email" id="email" name="email" required>
+
+  <label for="topic">Topic</label>
+  <select id="topic" name="topic" required>
+    <option value="" disabled selected>Select your topic</option>
+    <option value="general_request">Chemical Recipe</option>
+    <option value="collaboration">Buffer Recipe</option>
+    <option value="data_request">Methode</option>
+    <option value="data_request">Workflow</option>
+    <option value="other">Other</option>
+  </select>
+
+  <label for="file">Attach File (optional)</label>
+  <input type="file" id="file" name="attachment">
+
+  <label for="message">Message and additional information</label>
+  <textarea id="message" name="message" rows="5" required></textarea>
+
+  <button type="submit">Send Message</button>
+
+  <label>
+    <input type="checkbox" name="agree_terms" required>
+    I agree to the Terms of Use.
+  </label>
+  
+</form>

@@ -73,14 +73,18 @@ updated = '08.12.2025'
 2. <input type="checkbox">
 3. <input type="checkbox">
 4. <input type="checkbox">
+
 ### Heading 2:
 1. <input type="checkbox">
 2. <input type="checkbox">
 3. <input type="checkbox">
 4. <input type="checkbox">
+
 ### Heading 3:
 1. <input type="checkbox">
 2. <input type="checkbox">
 3. <input type="checkbox">
 4. <input type="checkbox">
+
+### Procede with Suitable Protocol:
 {{< /tab >}}

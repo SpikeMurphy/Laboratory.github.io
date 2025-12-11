@@ -1,8 +1,8 @@
 +++
-date = '2025-12-07T20:23:37+01:00'
+date = '2025-12-11T19:35:41+01:00'
 draft = true
 construction = false
-title = 'Inoue Transformation Buffer Stock 10x'
+title = 'Thanks For SOP Submission'
 subtitle = ''
 author = 'Spike Murphy Müller ¹'
 facility = '¹ Center for Experimental Medicine, Institute of Biochemistry and Signal Transduction, Working Group Signal Transduction in Cancer'

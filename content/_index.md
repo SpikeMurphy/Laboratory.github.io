@@ -2,14 +2,13 @@
 date = '2025-12-07T12:53:56+01:00'
 draft = false
 construction = false
-title = 'Homepage'
+title = 'Welcome to BiochemProtocols Web'
 subtitle = ''
 author = ''
 version = ''
 updated = ''
 +++
 
-### Welcome to Our Laboratory SOP Repository
 This website provides an organized collection of Standard Operating Procedures (SOP), general guidelines, and reference information commonly used in biochemical laboratories. The goal of this resource is to support learning, documentation, and safe planning by offering clear overviews of laboratory methods, materials, and concepts.
 Please note that all information on this site is intended for trained personnel who already understand the principles of laboratory safety, risk assessment, and proper handling of chemicals and equipment. The content does not replace official safety instructions, institutional training, or regulatory requirements.  
 

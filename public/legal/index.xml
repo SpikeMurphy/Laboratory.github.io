@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legals on Laboratory</title>
+    <link>http://localhost:1313/Laboratory/legal/</link>
+    <description>Recent content in Legals on Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Dec 2025 21:35:01 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/Laboratory/legal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutz</title>
+      <link>http://localhost:1313/Laboratory/legal/datenschutz/</link>
+      <pubDate>Thu, 11 Dec 2025 21:35:01 +0100</pubDate>
+      <guid>http://localhost:1313/Laboratory/legal/datenschutz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nutzungsbedingungen</title>
+      <link>http://localhost:1313/Laboratory/legal/nutzungsbedingungen/</link>
+      <pubDate>Thu, 11 Dec 2025 21:34:47 +0100</pubDate>
+      <guid>http://localhost:1313/Laboratory/legal/nutzungsbedingungen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/Laboratory/legal/impressum/</link>
+      <pubDate>Thu, 11 Dec 2025 21:26:41 +0100</pubDate>
+      <guid>http://localhost:1313/Laboratory/legal/impressum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terms of Use</title>
+      <link>http://localhost:1313/Laboratory/legal/terms_of_use/</link>
+      <pubDate>Sun, 07 Dec 2025 21:33:38 +0100</pubDate>
+      <guid>http://localhost:1313/Laboratory/legal/terms_of_use/</guid>
+      <description>&lt;h1 id=&#34;terms-of-use&#34;&gt;Terms of Use&lt;/h1&gt;&#xA;&lt;p&gt;Last updated: November 2025&lt;/p&gt;&#xA;&lt;h2 id=&#34;general-information&#34;&gt;General Information&lt;/h2&gt;&#xA;&lt;p&gt;By downloading or using the information provided, you agree to these Terms of Use and acknowledge the information provided in the accompanying Disclaimer, Privacy Policy, and License sections.&lt;/p&gt;&#xA;&lt;h2 id=&#34;license-and-usage-rights&#34;&gt;License and Usage Rights&lt;/h2&gt;&#xA;&lt;h2 id=&#34;educational-and-non-commercial-purpose&#34;&gt;Educational and Non-Commercial Purpose&lt;/h2&gt;&#xA;&lt;p&gt;This project is developed primarily for educational and research learning purposes.&lt;br&gt;&#xA;It is not intended for professional, clinical, or commercial use.&lt;br&gt;&#xA;Any scientific or academic use should be done with proper validation and under the user’s own responsibility.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/Laboratory/legal/privacy_policy/</link>
+      <pubDate>Sun, 07 Dec 2025 21:25:17 +0100</pubDate>
+      <guid>http://localhost:1313/Laboratory/legal/privacy_policy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;We take the protection of your personal data very seriously. We treat your personal data confidentially and in accordance with the statutory data protection regulations (in particular GDPR) as well as this privacy policy.&lt;/p&gt;&#xA;&lt;h2 id=&#34;data-protection-officer&#34;&gt;Data Protection Officer:&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Spike Murphy Müller&lt;/strong&gt;&lt;br&gt;&#xA;Martinistraße 52&lt;br&gt;&#xA;20246 Hamburg&lt;br&gt;&#xA;Germany&lt;br&gt;&#xA;Tel.  +49 40 7410 - 53396&lt;br&gt;&#xA;E-Mail:  &lt;a href=&#34;mailto:spike.mueller@stud.uke.uni-hamburg.de&#34;&gt;spike.mueller@stud.uke.uni-hamburg.de&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;For questions regarding data protection you can contact the data protection controller directly.&lt;/p&gt;&#xA;&lt;h2 id=&#34;collection-and-storage-of-personal-data&#34;&gt;Collection and storage of personal data&lt;/h2&gt;&#xA;&lt;h3 id=&#34;when-visiting-the-website&#34;&gt;When visiting the website&lt;/h3&gt;&#xA;&lt;p&gt;This website is hosted by &lt;strong&gt;GitHub Pages&lt;/strong&gt;, a service provided by GitHub, Inc.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Legal Notice</title>
+      <link>http://localhost:1313/Laboratory/legal/legal_notice/</link>
+      <pubDate>Sun, 07 Dec 2025 21:20:52 +0100</pubDate>
+      <guid>http://localhost:1313/Laboratory/legal/legal_notice/</guid>
+      <description>&lt;h2 id=&#34;legal-notice-according-to--5-tmg&#34;&gt;Legal Notice according to § 5 TMG&lt;/h2&gt;&#xA;&lt;h3 id=&#34;operator-of-this-website&#34;&gt;Operator of this Website:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Spike Murphy Müller&lt;/strong&gt;&lt;br&gt;&#xA;Martinistraße 52&lt;br&gt;&#xA;20246 Hamburg&lt;br&gt;&#xA;Germany&lt;br&gt;&#xA;Tel.  +49 40 7410 - 53396&lt;br&gt;&#xA;E-Mail:  &lt;a href=&#34;mailto:spike.mueller@stud.uke.uni-hamburg.de&#34;&gt;spike.mueller@stud.uke.uni-hamburg.de&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;responsible-for-content-according-to--18-abs-2-mstv&#34;&gt;Responsible for content according to § 18 Abs. 2 MStV:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Spike Murphy Müller&lt;/strong&gt;&lt;br&gt;&#xA;Martinistraße 52&lt;br&gt;&#xA;20246 Hamburg&lt;br&gt;&#xA;Germany&lt;br&gt;&#xA;Tel.  +49 40 7410 - 53396&lt;br&gt;&#xA;E-Mail:  &lt;a href=&#34;mailto:spike.mueller@stud.uke.uni-hamburg.de&#34;&gt;spike.mueller@stud.uke.uni-hamburg.de&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;&#xA;&lt;h3 id=&#34;liability-for-content&#34;&gt;Liability for Content&lt;/h3&gt;&#xA;&lt;p&gt;The contents of this website and the associated GitHub repository are created with great care.&#xA;However, no guarantee can be given for the accuracy, completeness, or timeliness of the information provided.&#xA;As a private service provider, I am responsible for my own content on these pages in accordance with § 7 (1) TMG. According to §§ 8 to 10 TMG, I am not obliged to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity.&#xA;Obligations to remove or block information under general laws remain unaffected.&#xA;Liability is only possible from the moment knowledge of a concrete infringement is obtained. Upon becoming aware of such violations, the relevant content will be removed promptly.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

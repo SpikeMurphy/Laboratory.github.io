@@ -1,6 +1,6 @@
 +++
 date = '2025-12-07T21:20:52+01:00'
-draft = true
+draft = false
 construction = true
 title = 'Legal Notice'
 subtitle = ''
@@ -9,7 +9,7 @@ version = 'Version 1.0'
 updated = ''
 +++
 
-## Legal Notice (Impressum) according to § 5 TMG
+## Legal Notice according to § 5 TMG
 
 ### Operator of this Website:
 **Spike Murphy Müller**  
@@ -53,3 +53,5 @@ Despite careful preparation, the information may be incomplete, outdated, or ina
 The operator assumes no liability for damages, errors, or consequences arising from the use of any information found on this site.
 Use of all content is entirely at your own risk.
 Always follow institutional safety guidelines, legal regulations, and official documentation.
+
+[🇩🇪 Deutsche Version (Impressum)]({{< relref "/legal/impressum.md" >}})

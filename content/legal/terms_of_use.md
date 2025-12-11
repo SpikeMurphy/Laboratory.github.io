@@ -1,6 +1,6 @@
 +++
 date = '2025-12-07T21:33:38+01:00'
-draft = true
+draft = false
 construction = true
 title = 'Terms of Use'
 subtitle = ''
@@ -39,3 +39,5 @@ Features, interface elements, and functionality may change without prior notice.
 ## Contact  
 If you have questions, feedback, or suggestions, please feel free to reach out:  
 📧 spike.mueller@stud.uke.uni-hamburg.de
+
+[🇩🇪 Nutzungsbedingungen ]({{< relref "/legal/Nutzungsbedingungen.md" >}})

@@ -1,6 +1,6 @@
 +++
 date = '2025-12-07T21:25:17+01:00'
-draft = true
+draft = false
 construction = true
 title = 'Privacy Policy'
 subtitle = ''
@@ -75,3 +75,5 @@ You also have the right to lodge a complaint with a data protection supervisory 
 ## Updates to this Privacy Policy
 This Privacy Policy may be updated to reflect legal changes or improvements to the website.  
 The current version is always available on this page.  
+
+[🇩🇪 Datenschutzerklärung ]({{< relref "/legal/datenschutz.md" >}})

@@ -10,3 +10,77 @@ version = 'Version 1.0.0'
 version_explaination = 'first: major revisions - second: minor revisions - third: revisions without changing procedure'
 updated = ''
 +++
+
+<!-- -->
+
+{{< timer time="0:00:30" >}}
+
+{{< infobox type="info" title="" >}}
+⚠️ Info
+{{< /infobox >}}
+
+{{< infobox type="warning" title="" >}}
+❗️ Attention
+{{< /infobox >}}
+
+{{< infobox type="danger" title="" >}}
+‼️ Danger
+{{< /infobox >}}
+
+{{< tab >}}
+## Materials
+| Equipment & Devices⠀⠀⠀ | Amount | Specifications| Location |
+| :-- | :-- | :-- | :-- |
+| [Device <sup>manual</sup>](link) |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+| Commercial Kits⠀⠀⠀⠀⠀⠀ | Amount | Specifications| Location |
+| :-- | :-- | :-- | :-- |
+| [Kit <sup>manual</sup>](link) |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+| Containers & Consumables | Amount | Specifications| Location |
+| :-- | :-- | :-- | :-- |
+| pipetmans and sterile pipette tips |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+| Reagents & Solutions⠀⠀⠀⠀ | Amount | Specifications| Location |
+| :-- | :-- | :-- | :-- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+| Biological Materials⠀⠀⠀⠀⠀ | Amount | Specifications| Location |
+| :-- | :-- | :-- | :-- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+{{< /tab >}}
+
+{{< tab >}}
+## Procedure:
+### Heading 1:
+1. <input type="checkbox">
+2. <input type="checkbox">
+3. <input type="checkbox">
+4. <input type="checkbox">
+### Heading 2:
+1. <input type="checkbox">
+2. <input type="checkbox">
+3. <input type="checkbox">
+4. <input type="checkbox">
+### Heading 3:
+1. <input type="checkbox">
+2. <input type="checkbox">
+3. <input type="checkbox">
+4. <input type="checkbox">
+{{< /tab >}}

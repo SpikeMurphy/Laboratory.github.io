@@ -324,25 +324,6 @@ main {
     color: #2d4c7f;
     box-shadow: 0 1px 2px rgba(0,0,0,0.06);
 }
-/* --- Growth Calculator Inputs (light) --- */
-.gc-hh, .gc-mm, .gc-od, .gc-dt,
-.proj-list input[type="number"] {
-    background: #f8fbff;
-    border: 1px solid #d2e9ff;
-    border-radius: 6px;
-    padding: 6px;
-    font-size: 0.9rem;
-    color: #2d4c7f;
-    box-shadow: 0 1px 2px rgba(0,0,0,0.06);
-    transition: border-color 0.3s ease, box-shadow 0.3s ease;
-}
-.gc-hh:focus, .gc-mm:focus, .gc-od:focus, .gc-dt:focus,
-.proj-list input[type="number"]:focus {
-    border-color: #3b82f6;
-    outline: none;
-    box-shadow: 0 0 4px rgba(59,130,246,0.6);
-}
-
 /* ========== Growth Calc Current Time (light) ========== */
 /* ========== Growth Calc (light) ========== */
 .growthcalc-wrapper {
@@ -352,13 +333,16 @@ main {
     border-radius: 12px;
     box-shadow: 0 2px 6px rgba(116,136,162,0.5);
 }
+.growth-table th {
+  text-align: left;
+}
 .gc-time-wrap {
   display: flex;
   gap: 2px;
   align-items: center;
 }
 .gc-hh, .gc-mm {
-  width: 4em;
+  width: 5em;
   text-align: center;
 }
 .gc-colon {

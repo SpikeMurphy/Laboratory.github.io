@@ -101,35 +101,40 @@ Mit Nutzung des Formulars stimmen Sie zu:
 
 Alternativ können Sie uns jederzeit direkt per E-Mail kontaktieren.
 
-## 10. Haftungsausschluss
+## 10. Lokaler Speicher (funktionaler Speicher)
+Diese Website nutzt lokalen Browserspeicher (localStorage), um Tabelleneingaben und Einstellungen von Rechnern lokal zu speichern.
+Die Daten werden ausschließlich auf Ihrem Gerät gespeichert, niemals an unsere Server oder an Dritte übertragen und automatisch nach 24 Stunden gelöscht.
+Es werden keine personenbezogenen Daten gespeichert oder verarbeitet.
+
+## 11. Haftungsausschluss
 Die Website wird „wie sie ist“ bereitgestellt.  
 Soweit gesetzlich zulässig, schließen wir jegliche Haftung aus für:
 - Fehler, Auslassungen, Unvollständigkeit oder veraltete Inhalte,
 - Laborunfälle, gefährliche Folgen oder Missbrauch dargestellter Verfahren,
 - direkte oder indirekte Schäden aus der Nutzung der Website oder deren Inhalte.
 
-## 11. Verfügbarkeit der Website
+## 12. Verfügbarkeit der Website
 Wir garantieren keine ununterbrochene oder fehlerfreie Verfügbarkeit.  
 Wir haften nicht für:
 - Ausfälle des Hosting-Anbieters (GitHub Pages),
 - Serverprobleme oder Ausfallzeiten,
 - Datenverlust oder Datenkorruption.
 
-## 12. Änderungen dieser Nutzungsbedingungen
+## 13. Änderungen dieser Nutzungsbedingungen
 Wir können diese Nutzungsbedingungen jederzeit ändern.  
 Änderungen treten mit Veröffentlichung auf dieser Seite in Kraft.  
 Durch die fortgesetzte Nutzung der Website akzeptieren Sie die aktualisierten Bedingungen.
 
-## 13. Anwendbares Recht und Gerichtsstand
+## 14. Anwendbares Recht und Gerichtsstand
 Es gilt das Recht der **Bundesrepublik Deutschland**.  
 Soweit zulässig, ist Gerichtsstand **[Ort, Deutschland]**.
 
-## 14. Rechtliche Kontaktstelle
+## 15. Rechtliche Kontaktstelle
 **Murphy Biochemistry UG (haftungsbeschränkt)**  
 Spike Murphy Müller  
 E-Mail: [E-Mail-Adresse]
 
-## 15. Nutzerbeiträge (Protokolle, Methoden, SOPs)
+## 16. Nutzerbeiträge (Protokolle, Methoden, SOPs)
 Nutzer können uns freiwillig wissenschaftliche Inhalte („Submission“) über das Kontaktformular oder per E-Mail übermitteln.
 
 Mit der Übermittlung eines Beitrags stimmen Sie Folgendem zu:

@@ -99,35 +99,40 @@ By using the form, you agree:
 
 You may alternatively contact us directly via email.
 
-## 10. No Guarantee and No Liability
+## 10. Local Storage (functional storage)
+This website uses local browser storage (localStorage) to save table inputs and calculator settings. 
+The data is stored exclusively on your device, is never transmitted to our servers or third parties, and is automatically deleted after 24 hours. 
+No personal data is stored or processed.
+
+## 11. No Guarantee and No Liability
 The Site is provided “as is”.  
 To the extent permitted by law, we disclaim liability for:
 - errors, omissions, incompleteness, or outdated content,
 - laboratory accidents, hazardous outcomes, or misuse,
 - any direct or indirect damages arising from the use of Site content.
 
-## 11. Availability of the Website
+## 12. Availability of the Website
 We do not guarantee uninterrupted or error-free availability.  
 We assume no liability for:
 - hosting failures (GitHub Pages),
 - downtime,
 - data loss.
 
-## 12. Changes to These Terms
+## 13. Changes to These Terms
 We may modify these Terms at any time.  
 Changes apply as soon as published here.  
 Continued use of the Site constitutes acceptance.
 
-## 13. Governing Law and Jurisdiction
+## 14. Governing Law and Jurisdiction
 These Terms are governed by German law.  
 Jurisdiction, where permitted, is **[City, Germany]**.
 
-## 14. Legal Contact
+## 15. Legal Contact
 **Murphy Biochemistry UG (haftungsbeschränkt)**  
 Spike Murphy Müller   
 Email: [Email Address]
 
-## 15. User Contributions (Protocols, Methods, SOPs)
+## 16. User Contributions (Protocols, Methods, SOPs)
 
 Users may voluntarily submit scientific content (“Submission”) to us via the contact form or email.
 

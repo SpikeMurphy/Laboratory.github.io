@@ -3,6 +3,7 @@ function fillStartTime() {
     const now = new Date();
     document.getElementById("gc-h0").value = String(now.getHours()).padStart(2,"0");
     document.getElementById("gc-m0").value = String(now.getMinutes()).padStart(2,"0");
+    saveGrowthData();
 }
 
 /* === Convert HH/MM fields to minutes === */
@@ -131,3 +132,97 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 });
 
+
+function downloadExcel() {
+
+    const rows = [];
+
+    rows.push(["Row", "Time (HH:MM)", "OD600", "Doubling Time (min)"]);
+
+    for (let i = 0; i < 12; i++) {
+        const h = document.getElementById(`gc-h${i}`).value || "";
+        const m = document.getElementById(`gc-m${i}`).value || "";
+        const time = h && m ? `${h}:${m}` : "";
+
+        const od = document.getElementById(`gc-od${i}`)?.value || "";
+        const dt = document.getElementById(`gc-dt${i}`)?.textContent ||
+                   document.getElementById(`gc-dt${i}`)?.value || "";
+
+        rows.push([i, time, od, dt]);
+    }
+
+    rows.push([]);
+    rows.push(["Projections"]);
+    rows.push(["Target OD", "Projected Time"]);
+    rows.push(["0.400", document.getElementById("proj04").textContent]);
+    rows.push(["0.600", document.getElementById("proj06").textContent]);
+    rows.push(["0.800", document.getElementById("proj08").textContent]);
+    rows.push(["Custom", document.getElementById("projCustom").textContent]);
+
+    const sheet = XLSX.utils.aoa_to_sheet(rows);
+    const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, sheet, "GrowthData");
+
+    XLSX.writeFile(wb, "bacterial_growth_data.xlsx");
+}
+
+
+
+/* === Save all calculator data === */
+function saveGrowthData() {
+    const data = {};
+
+    for (let i = 0; i < 12; i++) {
+        data[`h${i}`] = document.getElementById(`gc-h${i}`).value;
+        data[`m${i}`] = document.getElementById(`gc-m${i}`).value;
+        data[`od${i}`] = document.getElementById(`gc-od${i}`).value;
+
+        // NEW — save doubling times for ALL rows
+        const dtEl = document.getElementById(`gc-dt${i}`);
+        if (dtEl.tagName === "INPUT") {
+            data[`dt${i}`] = dtEl.value;
+        } else {
+            data[`dt${i}`] = dtEl.textContent;
+        }
+    }
+
+    data["projCustomOD"] = document.getElementById("projCustomOD").value;
+    data["timestamp"] = Date.now();
+
+    localStorage.setItem("growthCalcData", JSON.stringify(data));
+}
+/* === Load saved data === */
+function loadGrowthData() {
+    const raw = localStorage.getItem("growthCalcData");
+    if (!raw) return;
+
+    const data = JSON.parse(raw);
+
+    if (Date.now() - data.timestamp > 86400000) {
+        localStorage.removeItem("growthCalcData");
+        return;
+    }
+
+    for (let i = 0; i < 12; i++) {
+        document.getElementById(`gc-h${i}`).value = data[`h${i}`] || "";
+        document.getElementById(`gc-m${i}`).value = data[`m${i}`] || "";
+        document.getElementById(`gc-od${i}`).value = data[`od${i}`] || "";
+
+        // NEW — restore DT
+        const dtEl = document.getElementById(`gc-dt${i}`);
+        if (dtEl.tagName === "INPUT") {
+            dtEl.value = data[`dt${i}`] || "";
+        } else {
+            dtEl.textContent = data[`dt${i}`] || "";
+        }
+    }
+
+    document.getElementById("projCustomOD").value = data["projCustomOD"] || "";
+}
+
+
+/* === Initialize auto-save + auto-load === */
+document.addEventListener("DOMContentLoaded", () => {
+    loadGrowthData();    // load previous data
+    document.addEventListener("input", saveGrowthData);  // auto-save on typing
+});

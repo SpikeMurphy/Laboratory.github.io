@@ -168,7 +168,17 @@ Contributors may withdraw consent for author attribution at any time.
 Users can contact us without FormSubmit at:  
 **[Email Address]**
 
-### 7. No disclosure of data
+### 7. Local Storage (functional storage)
+#### Local Storage (Browser Storage)
+This website uses Local Storage to store user-entered table data and settings directly in the visitor’s browser.
+No personal data is transmitted to our servers.
+All data remains exclusively on the user’s device and can be deleted at any time by clearing the browser’s Local Storage.  
+This storage is technically necessary for providing the requested functionality, namely the "BiochemProtocols Growth Time Calculator" (Art. 6 para. 1 lit. f GDPR, § 25 para. 2 TTDSG).
+#### Excel Export
+The Excel export function from our "BiochemProtocols Growth Time Calculator" generates a file locally in the user’s browser.
+No data is transmitted to us or to third parties during export.
+
+### 8. No disclosure of data
 Personal data is not passed on to third parties unless:  
 - required by law (Art. 6 para. 1 lit. c GDPR)  
 - necessary for asserting or defending legal claims (Art. 6 para. 1 lit. f GDPR)  
@@ -180,11 +190,11 @@ No use of:
 - social media plugins  
 - advertising networks  
 
-### 8. Server log files
+### 9. Server log files
 The server logs collected by GitHub Pages are described in section 3.  
 We do not receive any direct access to these logs.
 
-### 9. Rights of data subjects
+### 10. Rights of data subjects
 You have the following rights under Chapter III of the GDPR:  
 - access (Art. 15 GDPR)  
 - rectification (Art. 16 GDPR)  
@@ -196,17 +206,17 @@ You have the following rights under Chapter III of the GDPR:
 Please address requests to:  
 [Email Address]
 
-### 10. Data Protection Officer
+### 11. Data Protection Officer
 A Data Protection Officer is not required, as the legal requirements pursuant to Art. 37 GDPR / § 38 BDSG are not met.
 
-### 11. Security
+### 12. Security
 We take appropriate technical and organizational measures (TOMs) to protect personal data.  
 As GitHub Pages is a static hosting service, no server-side processing is performed by us.
 
-### 12. Changes to this Privacy Policy
+### 13. Changes to this Privacy Policy
 We reserve the right to update this privacy policy if necessary.
 
-### 13. Contact person for data protection
+### 14. Contact person for data protection
 **Spike Murphy Müller**  
 E-mail: [Email Address]
 

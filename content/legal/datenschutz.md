@@ -163,7 +163,23 @@ Beitragende können ihre Einwilligung zur Autorennennung jederzeit widerrufen.
 Sie können uns jederzeit ohne FormSubmit erreichen:  
 **[Email Address]**
 
-### 7. Keine Weitergabe von Daten
+
+### 7. Localer Speicher (funktionaler Speicher)
+
+#### Verwendung von Lokalem Speicher (Browser-Speicher)
+Diese Website verwendet Local Storage, um vom Nutzer eingegebene Tabellendaten und Einstellungen direkt im Browser zu speichern.
+Es erfolgt keinerlei Übertragung dieser Daten an unsere Server.
+Alle Daten verbleiben ausschließlich auf dem Gerät des Nutzers und können jederzeit durch Löschen des Local Storage entfernt werden.
+
+Diese Speicherung ist technisch erforderlich für die Nutzung des  
+„BiochemProtocols Growth Time Calculator“
+(Art. 6 Abs. 1 lit. f DSGVO, § 25 Abs. 2 TTDSG).
+
+#### Excel-Export
+Die Excel-Export-Funktion des „BiochemProtocols Growth Time Calculator“ erzeugt die Datei ausschließlich lokal im Browser des Nutzers.  
+Dabei werden keine Daten an uns oder an Dritte übertragen.
+
+### 8. Keine Weitergabe von Daten
 Es erfolgt keine Weitergabe personenbezogener Daten an Dritte, außer:
 - wenn gesetzlich vorgeschrieben (Art. 6 Abs. 1 lit. c DSGVO)
 - zur Geltendmachung oder Verteidigung von Rechtsansprüchen (Art. 6 Abs. 1 lit. f DSGVO)
@@ -175,11 +191,11 @@ Keine Nutzung von:
 - Social-Media-Plugins
 - Werbenetzwerken
 
-### 8. Server-Logfiles
+### 9. Server-Logfiles
 Die von GitHub Pages erhobenen Logfiles siehe Abschnitt 3.
 Wir selbst erhalten keinen direkten Server-Logzugang.
 
-### 9. Rechte der betroffenen Personen
+### 10. Rechte der betroffenen Personen
 Sie haben folgende Rechte gemäß Kapitel III DSGVO:
 - Auskunft (Art. 15 DSGVO)
 - Berichtigung (Art. 16 DSGVO)
@@ -191,16 +207,16 @@ Sie haben folgende Rechte gemäß Kapitel III DSGVO:
 Anfragen richten Sie an:
 [Email Address]
 
-### 10. Datenschutzbeauftragter
+### 11. Datenschutzbeauftragter
 Ein Datenschutzbeauftragter ist nicht erforderlich, da die gesetzlichen Voraussetzungen gemäß Art. 37 DSGVO / § 38 BDSG nicht erfüllt sind.
 
-### 11. Sicherheit
+### 12. Sicherheit
 Wir treffen angemessene technische und organisatorische Maßnahmen (TOMs), um personenbezogene Daten zu schützen.
 Da GitHub Pages ein statischer Hostingdienst ist, findet keine serverseitige Verarbeitung durch uns statt.
 
-### 12. Änderungen dieser Datenschutzerklärung
+### 13. Änderungen dieser Datenschutzerklärung
 Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf zu aktualisieren.
 
-### 13. Ansprechpartner für Datenschutz
+### 14. Ansprechpartner für Datenschutz
 **Spike Murphy Müller**  
 E-Mail: [Email Address]

@@ -15,7 +15,7 @@ git commit -m "xxxxx updated"
 git push
 
 git add .
-git commit -m "add: public from hugo server"
+git commit -m "add: xxxxx"
 git push
 
 git add .
